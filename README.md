@@ -23,7 +23,7 @@ The PD Stress Multiplier slider (1.00 to 2.00) lowers collections in the waterfa
 ## Files
 - `screenshot_2.pdf`: 2 screenshots of the waterfall page, with the stress slider at 1.00 and at 2.00
 - `securitisation _dashboard - 01.pdf`: screenshots of the full Power BI dashboard (all pages)
-- - `securitisation _dashboard.pbix`: the working Power BI report. Download it and open it in Power BI Desktop to use the PD Stress Multiplier slider.
+- `securitisation _dashboard.pbix`: the working Power BI report. Download it and open it in Power BI Desktop to use the PD Stress Multiplier slider.
 
 ## Tools
 Power BI, DAX
